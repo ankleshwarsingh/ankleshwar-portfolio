@@ -52,14 +52,14 @@ Internship – SMPS Innovation</p>
 Third-party API Integration (e.g., Google Maps, Payment Systems)</span>
       <br />
       <br />
-      <h1 className='text-green-500 font-semibold text-xl'>Professional Experience</h1><span className="text-white"><span className="text-green-700"> 1. Freelance Web Developer : </span><br />
+      <h1 className='text-green-500 font-semibold text-xl'>Professional Experience</h1><span className="text-white"><span className="text-green-700"> Freelance Web Developer : </span><br />
       (2022 – Present) <br />
 
       Designed and developed custom websites for various clients, enhancing user experience and business performance. <br />
       Built responsive and dynamic front-end interfaces using HTML, CSS, JavaScript, and modern frameworks. <br />
       Integrated APIs and third-party services to create seamless functionality for e-commerce and business sites. <br />
       Optimized website performance, improving page load times and SEO ranking for clients. <br /><br />
-        <span className="text-green-700">2. Web Development Intern – SMPS Innovation </span> <br />
+        <span className="text-green-700">Web Development Intern – SMPS Innovation </span> <br />
       (April 2023 – June 2023) <br />
 
       Collaborated with a team to design and develop web applications, focusing on front-end and back-end integration. <br />

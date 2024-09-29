@@ -7,7 +7,6 @@ import { SiExpress } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
 import { SiPython } from "react-icons/si";
-import { FaJava } from "react-icons/fa6";
 import { FaPhp } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
 import { IoLogoGithub } from "react-icons/io";
